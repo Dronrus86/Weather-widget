@@ -13,6 +13,7 @@ body{
     margin: 0 auto;
     height: auto;
 
+
 }
 .container{
     background-color: #086680;
@@ -86,4 +87,56 @@ input{
     margin-left: -4px;
     cursor: pointer;
     border-radius: 0 5px 5px 0 ;
+}
+
+@media screen and (max-width: 991px) {
+    .wrapper {
+        width: 600px;
+
+    }
+
+    .container {
+        height: 300px;
+
+    }
+
+    .sitie_date {
+        font-size: 30px;
+
+
+    }
+
+    .sitie_time {
+        font-size: 70px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    .sitie {
+        margin-top: 5px;
+        font-size: 30px;
+
+    }
+
+    .temperature {
+
+        font-size: 50px;
+
+    }
+
+    .wind {
+        margin-top: 1px;
+        font-size: 20px;
+    }
+
+    .weather_temp {
+        display: block;
+
+    }
+
+    .sitie_search_text {
+
+        font-size: 18px;
+
+    }
 }

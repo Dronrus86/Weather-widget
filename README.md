@@ -1,2 +1,2 @@
 # Weather-widget
-<img width="542" alt="Снимок экрана 2022-07-25 в 20 37 26" src="https://user-images.githubusercontent.com/83859600/180839842-cac8c85a-77f8-412a-a05b-6297bd1ffc5e.png">
+![Снимок экрана 2022-07-25 в 21 11 19](https://user-images.githubusercontent.com/83859600/180845452-ad7e58a9-ee1b-4ee1-a9ec-45c820ac3fee.png)

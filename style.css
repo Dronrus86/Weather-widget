@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto';
+
+
+}
+
+
+.wrapper{
+    width: 400px;
+    margin: 0 auto;
+    height: auto;
+
+}
+.container{
+    background-color: #086680;
+    border-radius: 10px;
+    margin-top: 50px;
+    padding: 30px;
+
+}
+.sitie_date{
+    font-size: 12px;
+    color: white;
+    margin-bottom: 2px;
+}
+.sitie_time{
+    font-size: 50px;
+    color: white;
+    font-weight: bold;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+.sitie{
+    margin-top: 1px;
+    font-size: 16px;
+    color: white;
+}
+.temperature{
+    margin-bottom: 1px;
+    margin-top: 1px;
+    font-size: 35px;
+    color: white;
+    font-weight: bold;
+}
+.wind{
+    margin-top: 1px;
+    font-size: 12px;
+    color: white;
+}
+.weather_container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+   margin: auto;
+    text-align: end;
+    height: 120px;
+}
+.weather_temp{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+input{
+    height: 29px;
+    width: 180px;
+    border-radius: 5px 0 0 5px ;
+    border: none;
+    font-size: 14px;
+}
+.sitie_search_text{
+    margin-top: 1px;
+    margin-bottom: 3px;
+    font-size: 12px;
+    color: white;
+}
+.sitie_search_submit{
+    background-color:sandybrown;
+    height: 31px;
+    border: none;
+    font-size: 14px;
+    margin-left: -4px;
+    cursor: pointer;
+    border-radius: 0 5px 5px 0 ;
+}
